@@ -4,11 +4,11 @@
  */
 /*
 Plugin Name: Prayer Times Bar
-Plugin URI: https://whiteflame.com.au
+Plugin URI: https://bader-g.github.io
 Description: A bar on top of the site to show prayer times
 Version: 1.1
-Author: White Flame Creative
-Author URI: https://whiteflame.com.au
+Author: Bader
+Author URI: https://bader-g.github.io
 License: GPLv2 or later
 Text Domain: prayerTimes
 */
